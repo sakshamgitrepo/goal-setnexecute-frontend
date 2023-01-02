@@ -1,6 +1,6 @@
-## Goal Composer MERN app frontend
+## Goal Set&Execute MERN app frontend
 
-This is Mern stack crud project named Goal composer where you can view, write, update and delete your goals with user authentication.
+This is Mern stack crud project named Goal Set&Execute where you can view, write, update and delete your goals with user authentication.
 
 ## Backend Repository: https://github.com/sakshamgitrepo/Mern-composer-app-Backend
 
