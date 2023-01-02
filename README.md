@@ -1,44 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Goal Composer MERN app frontend
 
-## Available Scripts
+This is Mern stack crud project named Goal composer where you can view, write, update and delete your goals with user authentication.
 
-In the project directory, you can run:
+## Backend Repository: https://github.com/sakshamgitrepo/Mern-composer-app-Backend
 
-### `npm start`
+Clone this and backend repository and run 'npm install' then 'npm start' for both frontend & backend seperately or concurrently.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Register Page
+![image](https://user-images.githubusercontent.com/106506484/208143625-b219c6a3-f7a0-4223-aae8-c7367ff72668.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# Login Page
+![image](https://user-images.githubusercontent.com/106506484/208143872-ae3f622d-150f-4123-a0db-7cd9331b73e6.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Dashboard
 
-### `npm run build`
+![image](https://user-images.githubusercontent.com/106506484/208144214-f43e5b70-f4c7-4b2e-80fc-fc2c0737e453.png)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
