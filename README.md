@@ -7,13 +7,14 @@ This is Mern stack crud project named Goal Set&Execute where you can view, write
 Clone this and backend repository and run 'npm install' then 'npm start' for both frontend & backend seperately or concurrently.
 
 # Register Page
-![image](https://user-images.githubusercontent.com/106506484/208143625-b219c6a3-f7a0-4223-aae8-c7367ff72668.png)
+![image](https://user-images.githubusercontent.com/106506484/210256477-f5b964e9-e000-4c0f-9369-714e94373277.png)
+
 
 # Login Page
-![image](https://user-images.githubusercontent.com/106506484/208143872-ae3f622d-150f-4123-a0db-7cd9331b73e6.png)
+![image](https://user-images.githubusercontent.com/106506484/210256168-57c64541-ea86-418c-ace9-27eaea2026c0.png)
 
 
 # Dashboard
+![image](https://user-images.githubusercontent.com/106506484/210256797-eff61545-620f-46f5-ae8e-bb936c373a93.png)
 
-![image](https://user-images.githubusercontent.com/106506484/208144214-f43e5b70-f4c7-4b2e-80fc-fc2c0737e453.png)
 
